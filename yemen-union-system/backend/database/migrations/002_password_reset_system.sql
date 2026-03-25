@@ -1,0 +1,8 @@
+-- =====================================================
+-- Password Reset / OTP Verification System
+-- =====================================================
+-- NOTE: Please run the PHP migration script for this update:
+-- php migrate_password_reset.php
+--
+-- This avoids permission issues with INFORMATION_SCHEMA on some environments.
+-- =====================================================

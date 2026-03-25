@@ -1,0 +1,1 @@
+<?php require_once '../vendor/autoload.php'; \ = Dotenv\Dotenv::createImmutable(__DIR__ . '/..'); \->load(); \ = new PDO('mysql:host=localhost;dbname=' . \['DB_DATABASE'], \['DB_USERNAME'], \['DB_PASSWORD']); print_r(\->query('DESCRIBE memberships')->fetchAll(PDO::FETCH_ASSOC));

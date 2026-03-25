@@ -1,0 +1,45 @@
+# ==============================================
+# Yemen Student Union System - .gitignore
+# ==============================================
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+vendor/
+
+# Logs & Storage
+*.log
+backend/storage/logs/*.log
+backend/database/*.sqlite
+storage/logs/*
+!storage/logs/.gitkeep
+
+# Frontend Build
+frontend/dist/
+dist/
+
+# IDE & OS Files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Project-specific Debug/Aux files
+debug_*.php
+check_*.php
+populate_*.php
+reproduce_*.php
+*.cache
+*.compiled.php
+
+# Uploads (keep structure, ignore files)
+storage/uploads/*
+!storage/uploads/.gitkeep
+backend/public/uploads/*
+!backend/public/uploads/.gitkeep

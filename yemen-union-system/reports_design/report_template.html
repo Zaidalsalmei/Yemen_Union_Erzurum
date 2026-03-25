@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Template - Yemen Union System</title>
+    <link rel="stylesheet" href="report.css">
+    <!-- Font: Cairo for Arabic support -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Cairo', 'Segoe UI', Tahoma, sans-serif; /* Override for Arabic */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="page">
+        <!-- Watermark -->
+        <img src="../frontend/public/logo.jpg" alt="Watermark" class="watermark">
+
+        <!-- Header -->
+        <header class="report-header">
+            <div class="header-left">
+                <!-- Logo: Relative path for local viewing -->
+                <img src="../frontend/public/logo.jpg" alt="Logo" class="logo-img">
+                <div class="header-info">
+                    <h1>اتحاد الطلاب اليمنيين</h1>
+                    <p>YEMEN STUDENT UNION</p>
+                    <p>النظام الإداري والمالي</p>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="report-date">التاريخ: 2025/12/14</div>
+                <div class="report-id">REF: RPT-2025-0042</div>
+                <div class="report-type" style="font-weight: bold; margin-top: 5px;">تقرير الاشتراكات الشهرية</div>
+            </div>
+        </header>
+
+        <!-- KPI Section -->
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <span class="kpi-value">1,250</span>
+                <span class="kpi-label">إجمالي الأعضاء</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-value">145</span>
+                <span class="kpi-label">الطلاب الجدد</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-value">$12,400</span>
+                <span class="kpi-label">إجمالي التحصيل</span>
+            </div>
+            <div class="kpi-card">
+                <span class="kpi-value" style="color: green;">98%</span>
+                <span class="kpi-label">نسبة السداد</span>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <h2 class="section-title">تفاصيل الاشتراكات (ديسمبر 2025)</h2>
+
+        <div class="table-container">
+            <table class="report-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>اسم العضو</th>
+                        <th>رقم العضوية</th>
+                        <th>نوع الاشتراك</th>
+                        <th>تاريخ الدفع</th>
+                        <th>الحالة</th>
+                        <th style="text-align: left;">المبلغ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>محمد أحمد علي</td>
+                        <td>YSU-001</td>
+                        <td>عضوية سنوية</td>
+                        <td>2025/12/01</td>
+                        <td>نشط</td>
+                        <td style="text-align: left; direction: ltr;">$50.00</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>عبدالله صالح سعيد</td>
+                        <td>YSU-005</td>
+                        <td>اشتراك شهري</td>
+                        <td>2025/12/02</td>
+                        <td>نشط</td>
+                        <td style="text-align: left; direction: ltr;">$10.00</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>فاطمة محمد ناصر</td>
+                        <td>YSU-012</td>
+                        <td>منحة دراسية</td>
+                        <td>2025/12/03</td>
+                        <td>معفى</td>
+                        <td style="text-align: left; direction: ltr;">$0.00</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>عمر خالد سيف</td>
+                        <td>YSU-022</td>
+                        <td>عضوية سنوية</td>
+                        <td>2025/12/05</td>
+                        <td>نشط</td>
+                        <td style="text-align: left; direction: ltr;">$50.00</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>سارة أحمد يحيى</td>
+                        <td>YSU-030</td>
+                        <td>اشتراك شهري</td>
+                        <td>2025/12/08</td>
+                        <td>متأخر</td>
+                        <td style="text-align: left; direction: ltr;">$10.00</td>
+                    </tr>
+                    <!-- Add more rows to test print pagination if needed -->
+                    <tr>
+                        <td>6</td>
+                        <td>خالد وليد العامري</td>
+                        <td>YSU-045</td>
+                        <td>عضوية ذهبية</td>
+                        <td>2025/12/10</td>
+                        <td>نشط</td>
+                        <td style="text-align: left; direction: ltr;">$100.00</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="6" style="text-align: left;">الإجمالي الكلي</td>
+                        <td style="text-align: left; direction: ltr;">$220.00</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+
+        <!-- Notes Section -->
+        <div class="notes-section">
+            <span class="notes-title">ملاحظات هامة:</span>
+            <p>- تم احتساب جميع الاشتراكات حتى نهاية يوم عمل 14 ديسمبر 2025.</p>
+            <p>- المبالغ المذكورة بالدولار الأمريكي ويتم تحويلها حسب سعر الصرف اليومي.</p>
+            <p>- يرجى مراجعة القسم المالي في حال وجود أي استفسارات حول البيانات الواردة أعلاه.</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="report-footer">
+            <div class="footer-right">
+                تم استخراج هذا التقرير آلياً بواسطة <strong>نظام اتحاد الطلاب اليمنيين</strong>
+            </div>
+            <div class="footer-left">
+                Page 1 of 1 | info@yemenunion.org | +90 555 123 4567
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

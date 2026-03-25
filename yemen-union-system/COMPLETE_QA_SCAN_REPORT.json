@@ -1,0 +1,21 @@
+{
+    "scan_metadata": {
+        "generated_at": "2025-12-09T18:47:17+03:00",
+        "system_name": "Yemen Union System",
+        "scan_type": "Full-System QA Automation",
+        "status": "IN_PROGRESS",
+        "total_pages": 28,
+        "pages_scanned": 0
+    },
+    "summary": {
+        "total_buttons": 0,
+        "passed": 0,
+        "failed": 0,
+        "warnings": 0,
+        "pass_rate": "0%"
+    },
+    "pages": [],
+    "critical_issues": [],
+    "warnings": [],
+    "recommendations": []
+}

@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+dist/
+
+# Logs
+*.log
+tsc_b_errors.log
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
