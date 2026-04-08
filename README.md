@@ -26,19 +26,15 @@
 * **الكفاءة المالية:** تتبع دقيق للاشتراكات السنوية ونصف السنوية مع توليد تقارير مالية فورية.
 * **التواصل الرقمي:** توفير نظام محادثة داخلي متطور وتكامل مع Telegram و Gmail لضمان سرعة وصول الإشعارات.
 
----
-
 ### 💻 التقنيات المستخدمة (Tech Stack)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" alt="typescript" height="42px"/> 
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> 
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/php/php.svg" alt="php" height="42px"/> 
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" alt="mysql" height="42px"/> 
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tailwind/tailwind.svg" alt="tailwind" height="42px"/> 
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
-
----
 
 ### 📊 إحصائيات لغات البرمجة (Language Statistics)
 يعكس هذا المشروع تنوعاً تقنياً كبيراً يجمع بين قوة **TypeScript** في الواجهات وسهولة **PHP** في إدارة السيرفر:
