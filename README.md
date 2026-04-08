@@ -54,7 +54,8 @@
 ### 📸 واجهة النظام (Project Showcase)
 <div align="center">
   <p><b>معاينة حية لواجهة نظام YEME الفخمة</b></p>
-  <img src="./GEMINI/Gemini_Generated_Image_l0tq2ul0tq2ul0tq.png" width="850px" style="border-radius: 10px; border: 1px solid #ddd;" alt="System Preview"/>
+  <img src="./GEMINI/Gemini_Generated_Image_l0tq2ul0tq2ul0tq<img width="2469" height="1468" alt="Gemini_Generated_Image_l0tq2ul0tq2ul0tq" src="https://github.com/user-attachments/assets/c8e4538d-e740-4ef7-bfaf-36d869a50528" />
+.png" width="850px" style="border-radius: 10px; border: 1px solid #ddd;" alt="System Preview"/>
 </div>
 
 ---
