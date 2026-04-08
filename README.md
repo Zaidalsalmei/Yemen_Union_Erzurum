@@ -16,7 +16,8 @@
 
 ---
 
-### 🌟 رؤية المشروع (Project Vision)
+### 🌟 رؤية المشروع <img width="2469" height="1468" alt="Gemini_Generated_Image_l0tq2ul0tq2ul0tq" src="https://github.com/user-attachments/assets/f0974f42-a68a-4332-abbe-a489af5849ba" />
+(Project Vision)
 نظام **YEME System** هو منصة إدارية متكاملة (ERP) صممت خصيصاً لرقمنة وإدارة شؤون الطلاب اليمنيين في مدينة أرضروم التركية. يمثل النظام نقلة نوعية من العمليات الورقية التقليدية إلى بيئة رقمية متكاملة تضمن الشفافية الإدارية والمالية.
 
 ### 🎯 أهداف النظام الأساسية (Mission & Goals)
