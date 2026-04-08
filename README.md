@@ -54,7 +54,8 @@
 ### 📸 واجهة النظام (Project Showcase)
 <div align="center">
   <p><b>معاينة حية لواجهة نظام YEME الفخمة</b></p>
-  <img width="2469" height="1468" alt="Gemini_Generated_Image_l0tq2ul0tq2ul0tq" src="https://github.com/user-attachments/assets/47b87a59-2b3d-4857-b591-9a4917c41d47" />
+ 
+<img width="1136" height="941" alt="Gemini_Generated_Image_xw5vfgxw5vfgxw5v (1)" src="https://github.com/user-attachments/assets/1780bca5-6501-4708-9e38-06054a949ac2" />
 
 
 </div>
@@ -78,7 +79,8 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidalsalmei&show_icons=true&theme=radical" alt="Zaid Stats" />
+![YEMEN](https://github.com/user-attachments/assets/cadaa069-47f7-4598-aaa3-d84323f4912a)
+ 
   <br>
   <sub>بُني بكل فخر لخدمة الطلاب اليمنيين في أرضروم 🇾🇪</sub>
 </div>
